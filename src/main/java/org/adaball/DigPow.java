@@ -1,5 +1,8 @@
 package org.adaball;
 
+/**
+ * https://www.codewars.com/kata/5552101f47fc5178b1000050
+ */
 public class DigPow {
   /*
   Given two positive integers n and p, we want to find a positive integer k,

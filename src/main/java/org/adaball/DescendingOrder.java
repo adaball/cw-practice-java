@@ -3,6 +3,9 @@ package org.adaball;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * https://www.codewars.com/kata/5467e4d82edf8bbf40000155
+ */
 public class DescendingOrder {
   public static int sortDesc(int i) {
     List<Integer> digits = Arrays.stream(String.valueOf(i).split(""))

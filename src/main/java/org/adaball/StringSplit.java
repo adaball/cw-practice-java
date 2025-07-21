@@ -1,5 +1,8 @@
 package org.adaball;
 
+/**
+ * https://www.codewars.com/kata/515de9ae9dcfc28eb6000001
+ */
 public class StringSplit {
   public static String[] solution(String s) {
     if (s.isEmpty()) {
